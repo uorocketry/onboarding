@@ -1,10 +1,8 @@
-  
 #include <stdio.h>
 int main()
 {
    // printf() displays the string inside quotation
-   printf("My Name is Magdalena");
-  //nothing, nope)
-
+   printf("Hello, World!");
+   printf("My Name is Dima3");
    return 0;
 }
